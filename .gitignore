@@ -1,0 +1,7 @@
+﻿binutils-2.41
+binutils-2.41.tar.gz
+*.gz
+build-binutils
+build-gcc
+gcc-13.2.0
+opt
